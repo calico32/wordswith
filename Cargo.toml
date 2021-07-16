@@ -1,0 +1,14 @@
+[package]
+name = "ww"
+version = "2.0.1"
+authors = ["wiisportsresort <devdoge1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.5.4"
+rand = "0.8.4"
+rustyline = "8.2.0"
+colored = "2.0.0"
+
+# [build]
+# target = ["x86_64-pc-windows-gnu", "x86_64-unknown-linux-gnu", "x86_64-apple-darwin"]
